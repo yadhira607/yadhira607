@@ -20,6 +20,16 @@
 <p>1.- https://dayalma-yasbel-yanque-clemente.github.io/mi-pagina-web/ </p>
 <p>2.- https://elvinamirramirezneyra.github.io/ </p>
 
-<p> correo: yadhira.coyuri@ucsp.edu.pe</p>
-    </body>
+<footer>
+    
+    <section id="contacto">
+            <h2>Contacto</h2>
+            <p>Si deseas ponerte en contacto conmigo, no dudes en escribirme:</p>
+            <p>Email: <a href="mailto:yadhira.coyuri@ucsp.edu.pe">yadhira.coyuri@ucsp.edu.pe</a></p>
+        </section>
+     </main>
+    <footer>
+        <p>&copy; 2025 Yadhira Yurikho Coyuri Tirado </p>
+    </footer>
+</body>
 </html>
