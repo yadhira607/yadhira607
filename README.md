@@ -17,7 +17,7 @@
 <p>.Comunicacion</p>
 
 <p>Puedo mencionar que estudio ICC con:</p>
-<p>1.- https://melanycolquehuanca.neocities.org </p>
+<p>1.- https://dayalma-yasbel-yanque-clemente.github.io/mi-pagina-web/ </p>
 <p>2.- https://elvinamirramirezneyra.github.io/ </p>
 
 <p> correo: yadhira.coyuri@ucsp.edu.pe</p>
