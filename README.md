@@ -180,11 +180,6 @@
             <p>También colaboro y comparto experiencias con mis compañeros:</p>
             <ul>
                 <li><a href="https://fabriciobernardovillanueva.github.io/githubpagetest/" target="_blank">Fabricio Bernardo Villanueva Valdivia</a></li>
-                <li><a href="https://jonathanboristunquipaticuna.github.io/JonathanBorisTunquipaTicu-a/" target="_blank">Jonathan Boris Tunquipa Ticuña</a></li>
-                <li><a href="https://yadhirayurikhocoyuritirado.github.io/yadhirayurikhocoyuri/" target="_blank">Yadhira Yurikho Coyuri Tirado</a></li>
-                <li><a href="https://emerickcarlosteranbedregal.github.io/EmerickCarlosTeranBedregal/" target="_blank">Emerick Carlos Teran Bedregal</a></li>
-                <li><a href="https://joaquinadrianolopezmolina.github.io/JoaquinAdrianoLopezMolina/" target="_blank">Joaquin Adriano Lopez Molina</a></li>
-                <li><a href="https://rodrigorembrantsalasapaza.github.io/RodrigoRembrantSalasApaza/" target="_blank">Rodrigo Rembrant Salas Apaza</a></li>
                 <li><a href="https://luisstefanopachecovaldivia.github.io/LuisStefanoPachecoValdivia/" target="_blank">Luis Stefano Pacheco Valdivia</a></li>
             </ul>
         </section>
