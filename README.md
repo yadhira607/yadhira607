@@ -1,8 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-    <title>YADHIRA YURIKHO COYURI TIRADO</title>
-</head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yadhira Yurikho Coyuri Tirado</title>
+    <style>
+        /* General */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
 <body>
 <h1>BIENVENIDO</h1>
 <h1>Me llamo Yadhira</h1>
