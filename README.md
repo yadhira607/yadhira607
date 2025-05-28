@@ -16,20 +16,25 @@
 <p>.Dibujo tecnico</p>
 <p>.Comunicacion</p>
 
-<p>Puedo mencionar que estudio ICC con:</p>
-<p>1.- https://dayalma-yasbel-yanque-clemente.github.io/mi-pagina-web/ </p>
-<p>2.- https://elvinamirramirezneyra.github.io/ </p>
+            </ul>
+            <p>También colaboro y comparto experiencias con mis compañeros:</p>
+            <ul>
+                <li><a href="https://joaquinadrianolopezmolina.github.io/JoaquinAdrianoLopezMolina/" target="_blank">Joaquin Adriano Lopez Molina</a></li>
+                <li><a href="https://rodrigorembrantsalasapaza.github.io/RodrigoRembrantSalasApaza/" target="_blank">Rodrigo Rembrant Salas Apaza</a></li>
+                <li><a href="https://luisstefanopachecovaldivia.github.io/LuisStefanoPachecoValdivia/" target="_blank">Luis Stefano Pacheco Valdivia</a></li>
+            </ul>
+        </section>
 
-<footer>
-    
-    <section id="contacto">
+<section id="contacto">
             <h2>Contacto</h2>
             <p>Si deseas ponerte en contacto conmigo, no dudes en escribirme:</p>
             <p>Email: <a href="mailto:yadhira.coyuri@ucsp.edu.pe">yadhira.coyuri@ucsp.edu.pe</a></p>
         </section>
-     </main>
+    </main>
+
     <footer>
-        <p>&copy; 2025 Yadhira Yurikho Coyuri Tirado </p>
+        <p>&copy; 2024 Yadhira Yurikho Coyuri Tirado</p>
     </footer>
 </body>
 </html>
+
